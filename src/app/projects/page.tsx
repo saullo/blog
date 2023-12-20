@@ -7,7 +7,7 @@ const projects = [
     name: "One Cloud",
     description:
       "Um ERP para gerenciamento de empresas baseado em nuvem, com várias funcionalidades, incluindo CRM, Vendas, Estoque...",
-    url: "https://one.amplosoftware.com",
+    url: "https://one.amplasoftware.com",
     image: "/projects/one-cloud.svg",
   },
   {
